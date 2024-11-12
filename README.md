@@ -1,75 +1,54 @@
-<h1 align="center">Hi 👋, I'm Matheus Ribeiro</h1>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2 align="left">¡Hola! Soy Matheus Ribeiro Lima</h2>
+
+### 👨🏻‍💻 &nbsp;Sobre Mí
+
+👨‍💻 &nbsp;Soy Desarrollador Full Stack con experiencia en proyectos de frontend y backend. Actualmente, busco oportunidades para especializarme en backend.  
+💡 &nbsp;Me encanta explorar nuevas tecnologías y desarrollar soluciones creativas.  
+🎓 &nbsp;He completado varias certificaciones en desarrollo web, incluyendo Full Stack y Frontend.  
+🌱 &nbsp;Estoy en constante aprendizaje, especialmente en tecnologías como .NET, React y Angular.  
+🎸 &nbsp;En mi tiempo libre, disfruto de la música, especialmente tocar la guitarra y explorar la edición musical.  
+
+<img alt="Coding at Night" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tecnologías y Herramientas
+
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗃 &nbsp;Bases de Datos
+
+![SQLServer](https://img.shields.io/badge/SQLServer-%230076b9.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### ⚙️ &nbsp;Control de Versiones y Herramientas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📊 &nbsp;GitHub Analytics
+
+<p align="start">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+### 🎖 &nbsp;Mis Proyectos
+
+- **Light Eyes**: Plataforma que genera informes de auditoría de ciberseguridad, usando .NET y Angular.
+- **Matflix**: Aplicación de catálogo de películas con autenticación de usuarios y despliegue en Azure.
+
+### 🤝🏻 &nbsp;Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-lima" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-ribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-ribeiro" /> </p>
-
-🌱 I’m a **Full-Stack Developer** focused on expanding my knowledge in backend technologies. I’m passionate about solving complex problems, learning continuously, and tackling new challenges. 
-
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-<hr width="60%" >
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-ribeiro&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheus-ribeiro" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matheus-ribeiro&show_icons=true&theme=dark&locale=en" alt="matheus-ribeiro" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-ribeiro&theme=dark" alt="matheus-ribeiro" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<hr width="60%" >
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-lima" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/matheusribeiro.dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/matheus-ribeiro-lima/"><img src="https://img.shields.io/badge/-Matheus%20Ribeiro%20Lima-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mribeiro17.info@gmail.com"><img src="https://img.shields.io/badge/-tuemail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:89bce29a-c02b-4c08-97cf-753a016e647b"><img src="https://img.shields.io/badge/-tuemail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+📄 &nbsp;Echa un vistazo a mi [CV](https://acrobat.adobe.com/id/urn:aaid:sc:EU:89bce29a-c02b-4c08-97cf-753a016e647b) para más detalles.
 </p>
